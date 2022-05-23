@@ -500,7 +500,7 @@ const Home = (props: HomeProps) => {
                 >
                   <Grid item xs={3}>
                     <Typography variant="body2" color="textSecondary">
-                      Remaining
+                      Supply
                     </Typography>
                     <Typography
                       variant="h6"
@@ -509,7 +509,7 @@ const Home = (props: HomeProps) => {
                         fontWeight: 'bold',
                       }}
                     >
-                      {`${itemsRemaining}`}
+                      {`$555`}
                     </Typography>
                   </Grid>
                   <Grid item xs={4}>
